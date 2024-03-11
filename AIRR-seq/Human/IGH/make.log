@@ -1,0 +1,17 @@
+status: Importing reference alleles
+status: Importing studies
+metadata file C:\Users\yaniv\Desktop\test\digby_data\AIRR-seq\Human\IGH\samples\P10\P10_I2_S2\P10_I2_S2.yml not found: sample will not be included!
+metadata file C:\Users\yaniv\Desktop\test\digby_data\AIRR-seq\Human\IGH\samples\P10\P10_I2_S3\P10_I2_S3.yml not found: sample will not be included!
+metadata file C:\Users\yaniv\Desktop\test\digby_data\AIRR-seq\Human\IGH\samples\P10\P10_I3_S2\P10_I3_S2.yml not found: sample will not be included!
+metadata file C:\Users\yaniv\Desktop\test\digby_data\AIRR-seq\Human\IGH\samples\P10\P10_I3_S3\P10_I3_S3.yml not found: sample will not be included!
+metadata file C:\Users\yaniv\Desktop\test\digby_data\AIRR-seq\Human\IGH\samples\P10\P10_I4_S1\P10_I4_S1.yml not found: sample will not be included!
+metadata file C:\Users\yaniv\Desktop\test\digby_data\AIRR-seq\Human\IGH\samples\P10\P10_I4_S2\P10_I4_S2.yml not found: sample will not be included!
+metadata file C:\Users\yaniv\Desktop\test\digby_data\AIRR-seq\Human\IGH\samples\P10\P10_I5_S2\P10_I5_S2.yml not found: sample will not be included!
+metadata file C:\Users\yaniv\Desktop\test\digby_data\AIRR-seq\Human\IGH\samples\P10\P10_I5_S3\P10_I5_S3.yml not found: sample will not be included!
+status: Processing deleted alleles
+status: Processing genotypes
+status: Processing haplotypes
+status: Analyzing allele appearances
+status: Calculating gene frequencies
+status: Calculating patterns
+status: Creating confidence reports
