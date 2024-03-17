@@ -1,17 +1,25 @@
 status: Importing reference alleles
 status: Importing studies
-metadata file C:\Users\yaniv\Desktop\test\digby_data\AIRR-seq\Human\IGH\samples\P10\P10_I2_S2\P10_I2_S2.yml not found: sample will not be included!
-metadata file C:\Users\yaniv\Desktop\test\digby_data\AIRR-seq\Human\IGH\samples\P10\P10_I2_S3\P10_I2_S3.yml not found: sample will not be included!
-metadata file C:\Users\yaniv\Desktop\test\digby_data\AIRR-seq\Human\IGH\samples\P10\P10_I3_S2\P10_I3_S2.yml not found: sample will not be included!
-metadata file C:\Users\yaniv\Desktop\test\digby_data\AIRR-seq\Human\IGH\samples\P10\P10_I3_S3\P10_I3_S3.yml not found: sample will not be included!
-metadata file C:\Users\yaniv\Desktop\test\digby_data\AIRR-seq\Human\IGH\samples\P10\P10_I4_S1\P10_I4_S1.yml not found: sample will not be included!
-metadata file C:\Users\yaniv\Desktop\test\digby_data\AIRR-seq\Human\IGH\samples\P10\P10_I4_S2\P10_I4_S2.yml not found: sample will not be included!
-metadata file C:\Users\yaniv\Desktop\test\digby_data\AIRR-seq\Human\IGH\samples\P10\P10_I5_S2\P10_I5_S2.yml not found: sample will not be included!
-metadata file C:\Users\yaniv\Desktop\test\digby_data\AIRR-seq\Human\IGH\samples\P10\P10_I5_S3\P10_I5_S3.yml not found: sample will not be included!
+Creating blank record for table <class 'db.vdjbase_airr_model.GenoDetection'> in sample P10_I2_S2
 status: Processing deleted alleles
 status: Processing genotypes
+C:\Users\yaniv\Desktop\test\digby_dev_data\AIRR-seq\Human\IGH\samples\P10\P10_I2_S2\P10_I2_S2_genotype.tsv
+C:\Users\yaniv\Desktop\test\digby_dev_data\AIRR-seq\Human\IGH\samples\P10\P10_I2_S3\P10_I2_S3_genotype.tsv
+C:\Users\yaniv\Desktop\test\digby_dev_data\AIRR-seq\Human\IGH\samples\P10\P10_I3_S2\P10_I3_S2_genotype.tsv
+C:\Users\yaniv\Desktop\test\digby_dev_data\AIRR-seq\Human\IGH\samples\P10\P10_I3_S3\P10_I3_S3_genotype.tsv
+C:\Users\yaniv\Desktop\test\digby_dev_data\AIRR-seq\Human\IGH\samples\P10\P10_I4_S1\P10_I4_S1_genotype.tsv
+C:\Users\yaniv\Desktop\test\digby_dev_data\AIRR-seq\Human\IGH\samples\P10\P10_I4_S2\P10_I4_S2_genotype.tsv
+C:\Users\yaniv\Desktop\test\digby_dev_data\AIRR-seq\Human\IGH\samples\P10\P10_I5_S2\P10_I5_S2_genotype.tsv
+C:\Users\yaniv\Desktop\test\digby_dev_data\AIRR-seq\Human\IGH\samples\P10\P10_I5_S3\P10_I5_S3_genotype.tsv
 status: Processing haplotypes
 status: Analyzing allele appearances
 status: Calculating gene frequencies
 status: Calculating patterns
 status: Creating confidence reports
+samples/P10/P10_I2_S2/P10_I2_S2_gene-IGHD2-8-01_02_haplotype.tsv
+samples/P10/P10_I3_S2/P10_I3_S2_gene-IGHD2-21-01_02_haplotype.tsv
+samples/P10/P10_I3_S3/P10_I3_S3_gene-IGHD2-21-01_02_haplotype.tsv
+samples/P10/P10_I3_S3/P10_I3_S3_gene-IGHD2-8-01_02_haplotype.tsv
+samples/P10/P10_I4_S1/P10_I4_S1_gene-IGHD2-8-01_02_haplotype.tsv
+samples/P10/P10_I4_S2/P10_I4_S2_gene-IGHD2-21-01_02_haplotype.tsv
+samples/P10/P10_I5_S3/P10_I5_S3_gene-IGHD2-8-01_02_haplotype.tsv
